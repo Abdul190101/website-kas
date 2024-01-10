@@ -1,6 +1,6 @@
 E-KASS MAHASISWA/SISWA
 
-Cara install aplikasi keepkas di localhost atau xampp :
+Cara install aplikasi kas di localhost atau xampp :
 
 1. Buat folder baru dengan nama 'kas' didalam "Program C/xampp/htdocs".
 2. Ekstrak file zip kas ke dalam folder tersebut.
